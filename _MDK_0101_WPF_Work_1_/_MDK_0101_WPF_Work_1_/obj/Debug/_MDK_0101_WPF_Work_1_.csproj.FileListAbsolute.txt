@@ -1,0 +1,15 @@
+D:\ИС-23\Суздалев и Шевцов\_MDK_0101_WPF_Work_1_\_MDK_0101_WPF_Work_1_\bin\Debug\_MDK_0101_WPF_Work_1_.exe.config
+D:\ИС-23\Суздалев и Шевцов\_MDK_0101_WPF_Work_1_\_MDK_0101_WPF_Work_1_\bin\Debug\_MDK_0101_WPF_Work_1_.exe
+D:\ИС-23\Суздалев и Шевцов\_MDK_0101_WPF_Work_1_\_MDK_0101_WPF_Work_1_\bin\Debug\_MDK_0101_WPF_Work_1_.pdb
+D:\ИС-23\Суздалев и Шевцов\_MDK_0101_WPF_Work_1_\_MDK_0101_WPF_Work_1_\obj\Debug\_MDK_0101_WPF_Work_1_.csproj.AssemblyReference.cache
+D:\ИС-23\Суздалев и Шевцов\_MDK_0101_WPF_Work_1_\_MDK_0101_WPF_Work_1_\obj\Debug\MainWindow.g.cs
+D:\ИС-23\Суздалев и Шевцов\_MDK_0101_WPF_Work_1_\_MDK_0101_WPF_Work_1_\obj\Debug\App.g.cs
+D:\ИС-23\Суздалев и Шевцов\_MDK_0101_WPF_Work_1_\_MDK_0101_WPF_Work_1_\obj\Debug\_MDK_0101_WPF_Work_1__MarkupCompile.cache
+D:\ИС-23\Суздалев и Шевцов\_MDK_0101_WPF_Work_1_\_MDK_0101_WPF_Work_1_\obj\Debug\_MDK_0101_WPF_Work_1__MarkupCompile.lref
+D:\ИС-23\Суздалев и Шевцов\_MDK_0101_WPF_Work_1_\_MDK_0101_WPF_Work_1_\obj\Debug\MainWindow.baml
+D:\ИС-23\Суздалев и Шевцов\_MDK_0101_WPF_Work_1_\_MDK_0101_WPF_Work_1_\obj\Debug\_MDK_0101_WPF_Work_1_.g.resources
+D:\ИС-23\Суздалев и Шевцов\_MDK_0101_WPF_Work_1_\_MDK_0101_WPF_Work_1_\obj\Debug\_MDK_0101_WPF_Work_1_.Properties.Resources.resources
+D:\ИС-23\Суздалев и Шевцов\_MDK_0101_WPF_Work_1_\_MDK_0101_WPF_Work_1_\obj\Debug\_MDK_0101_WPF_Work_1_.csproj.GenerateResource.cache
+D:\ИС-23\Суздалев и Шевцов\_MDK_0101_WPF_Work_1_\_MDK_0101_WPF_Work_1_\obj\Debug\_MDK_0101_WPF_Work_1_.csproj.CoreCompileInputs.cache
+D:\ИС-23\Суздалев и Шевцов\_MDK_0101_WPF_Work_1_\_MDK_0101_WPF_Work_1_\obj\Debug\_MDK_0101_WPF_Work_1_.exe
+D:\ИС-23\Суздалев и Шевцов\_MDK_0101_WPF_Work_1_\_MDK_0101_WPF_Work_1_\obj\Debug\_MDK_0101_WPF_Work_1_.pdb
